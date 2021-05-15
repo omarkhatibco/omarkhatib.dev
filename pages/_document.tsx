@@ -1,6 +1,7 @@
 import Document, {
   DocumentContext,
   DocumentInitialProps,
+  Head,
   Html,
   Main,
   NextScript,
@@ -17,6 +18,7 @@ class MyDocument extends Document {
   render(): JSX.Element {
     return (
       <Html>
+        <Head />
         <body>
           <Main />
           <NextScript />

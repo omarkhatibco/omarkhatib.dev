@@ -6,9 +6,9 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title:
-    'Omar Khatib | Senior Software Engineer | Next.js • React.js • Node.js • TypeScript • PostgreSQL',
+    'Omar Khatib | Staff Software Engineer | Next.js • React.js • Node.js • TypeScript • PostgreSQL',
   description:
-    'I am a Senior Software Engineer with over 10 years of web development experience, My goal is to deliver high-quality, innovative solutions that solve real-world problems and enhance customer satisfaction. I have a strong background in React, Typescript, GraphQL, Next.js, and Node.js, and am always eager to learn new technologies and best practices.',
+    'I am a Staff Software Engineer with over 10 years of web development experience, My goal is to deliver high-quality, innovative solutions that solve real-world problems and enhance customer satisfaction. I have a strong background in React, Typescript, Next.js, and Node.js, and am always eager to learn new technologies and best practices.',
   icons: '/favicon.ico',
 };
 

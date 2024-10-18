@@ -8,7 +8,7 @@ export default function Home() {
           <h1 className='text-3xl md:text-6xl'>
             Hi, I&apos;m <span className='text-[#FF521B]'>Omar Khatib</span>
           </h1>
-          <p className='font-medium'>Senior Software Engineer</p>
+          <p className='font-medium'>Staff Software Engineer</p>
           <Icons />
         </div>
       </div>

@@ -12,18 +12,8 @@ export const links = [
     icon: <LinkedIn />,
   },
   {
-    title: 'Xing',
-    href: 'https://www.xing.com/profile/Omar_Khatib8/cv',
-    icon: <Xing />,
-  },
-  {
     title: 'Twitter',
     href: 'https://twitter.com/omarkhatibco',
     icon: <Twitter />,
-  },
-  {
-    title: 'Email',
-    href: 'mailto:hey@omarkhatib.dev',
-    icon: <Mail />,
-  },
+  }
 ];
